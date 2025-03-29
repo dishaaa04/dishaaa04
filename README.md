@@ -67,6 +67,13 @@ From **Python's analytical power** to **Java's structured brilliance**, every li
 <a href="https://github.com/dishaaa04"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 ---
+🚀 Expanding My Knowledge Universe
+🌱 Every Line of Code is a Step Towards Mastery
+<p align="center"> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" /> <img src="https://img.shields.io/badge/Web%20Technologies-4285F4?style=for-the-badge&logo=html5&logoColor=white" alt="Web Technologies" /> </p>
+🔹 Java → Crafting efficient, scalable, and powerful backend solutions.
+🔹 Web Technologies → Weaving dynamic and immersive digital experiences.
+
+✨ Every bug is a lesson. Every solution is a milestone. 🚀
 
 ## 💻 **Technical Arsenal Visualization**  
 <div align="center">
@@ -87,4 +94,5 @@ class DevProfile {
                 .map(Map.Entry::getKey)
                 .orElse("Unknown"));
     }
-}
+} 
+
