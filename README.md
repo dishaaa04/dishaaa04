@@ -1,10 +1,17 @@
-#👋 Welcome to my digital playground
-I don't just write code, I craft digital experiences ✨
-"The code works? That's not enough. Is it elegant? Is it efficient? Does it solve the right problem?"
-🌱 Currently nurturing
-Programming isn't just about syntax; it's about crafting intelligent solutions. From Python's analytical power to Java's structured brilliance, every line of code is a step toward innovation.🚀💡
-Exploring Bangalore's tech frontier while diving into Java & web technologies—because true engineering is about evolving, solving, and creating with curiosity. 🌍💻
-From Python's precision to Java's robustness, coding is more than a skill—it's an ever-evolving journey of problem-solving, learning, and shaping the digital future. ✨
+# 🔥 Welcome to my digital playground  
+
+I don't just write code, I craft digital experiences ✨  
+
+> **"The code works? That's not enough. Is it elegant? Is it efficient? Does it solve the right problem?"**  
+
+🌱 Currently nurturing **Programming** isn't just about syntax; it's about crafting intelligent solutions.  
+From **Python's analytical power** to **Java's structured brilliance**, every line of code is a step toward innovation. 🚀💡  
+
+🌍 Exploring Bangalore's tech frontier while diving into **Java & web technologies**—because true engineering is about evolving, solving, and creating with curiosity. 🖥️  
+
+💻 From **Python’s precision** to **Java’s robustness**, coding is more than a skill—it’s an ever-evolving journey of problem-solving, learning, and shaping the digital future. ✨  
+
+## 🌌 My Tech Constellation 
 💡 My Tech Constellation
 <table>
   <tr>
