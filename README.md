@@ -6,21 +6,12 @@ I don't just write code, I craft digital experiences ✨
 
 🌱 Currently nurturing
 
-Building a Java-based microservices architecture that talks to each other through cosmic waves (or maybe just REST APIs)
-Teaching my computer to understand my coffee preferences based on the time of day
-Exploring the frontiers of software development in Bangalore's tech ecosystem 
- 
+Programming isn’t just about syntax; it’s about crafting intelligent solutions. From Python’s analytical power to Java’s structured brilliance, every line of code is a step toward innovation."🚀💡
 
-## ⚡ Skills & Technologies:
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" title="NumPy" alt="NumPy" width="40" height="40"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" title="Matplotlib" alt="Matplotlib" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="SQL" alt="SQL" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="40" height="40"/>&nbsp;
-</p>
+Exploring Bangalore’s tech frontier while diving into Java & web technologies—because true engineering is about evolving, solving, and creating with curiosity. 🌍💻
+
+From Python’s precision to Java’s robustness, coding is more than a skill—it’s an ever-evolving journey of problem-solving, learning, and shaping the digital future. ✨
+ 
 
 ### 💡 My Tech Constellation
 
