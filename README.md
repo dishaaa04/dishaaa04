@@ -1,20 +1,11 @@
-# 👋 Welcome to my digital playground
-
+👋 Welcome to my digital playground
 I don't just write code, I craft digital experiences ✨
-
 "The code works? That's not enough. Is it elegant? Is it efficient? Does it solve the right problem?"
-
 🌱 Currently nurturing
-
-Programming isn’t just about syntax; it’s about crafting intelligent solutions. From Python’s analytical power to Java’s structured brilliance, every line of code is a step toward innovation.🚀💡
-
-Exploring Bangalore’s tech frontier while diving into Java & web technologies—because true engineering is about evolving, solving, and creating with curiosity. 🌍💻
-
-From Python’s precision to Java’s robustness, coding is more than a skill—it’s an ever-evolving journey of problem-solving, learning, and shaping the digital future. ✨
- 
-
-### 💡 My Tech Constellation
-
+Programming isn't just about syntax; it's about crafting intelligent solutions. From Python's analytical power to Java's structured brilliance, every line of code is a step toward innovation.🚀💡
+Exploring Bangalore's tech frontier while diving into Java & web technologies—because true engineering is about evolving, solving, and creating with curiosity. 🌍💻
+From Python's precision to Java's robustness, coding is more than a skill—it's an ever-evolving journey of problem-solving, learning, and shaping the digital future. ✨
+💡 My Tech Constellation
 <table>
   <tr>
     <td align="center" width="96">
@@ -43,7 +34,6 @@ From Python’s precision to Java’s robustness, coding is more than a skill—
     </td>
   </tr>
 </table>
-
 🧩 Current Puzzle:
 How to make software that's not just functional, but delightful?
 🔮 Future Visions
@@ -56,10 +46,8 @@ Exploring the intersection of technology and creativity
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=dishaacharyaa04@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-
 <a href="https://linkedin.com/in/dishaacharyad"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://github.com/dishaaa04"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-
 <details>
 <summary>🗝️ Secret Garden</summary>
 <br>
@@ -71,18 +59,10 @@ def disha_philosophy():
         share_knowledge()
         if tired:
             coffee()
+
 </details>
 <!-- This README is as dynamic as my coding journey -->
-
-
-## 📫 Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/dishaacharyad)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/dishaaa04)  
-
-📧 **Email:** dishaacharyaa04@gmail.com  
-
-## 🌐 Digital Nexus
-
+🌐 Digital Nexus
 <div align="center">
   <table>
     <tr>
@@ -97,10 +77,8 @@ def disha_philosophy():
         </a>
       </td>
       <td>
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=dishaacharyaa04@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Message-D14836?style=for-the-badge&logo=gmail&logoColor=white&label=EMAIL&labelColor=EA4335" alt="Email"/>
-      </a>
-
+        <a href="https://mail.google.com/mail/?view=cm&fs=1&to=dishaacharyaa04@gmail.com" target="_blank">
+          <img src="https://img.shields.io/badge/Message-D14836?style=for-the-badge&logo=gmail&logoColor=white&label=EMAIL&labelColor=EA4335" alt="Email"/>
         </a>
       </td>
     </tr>
@@ -108,7 +86,6 @@ def disha_philosophy():
 </div>
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=GitHub%20Stats&fontSize=40&fontAlignY=35&animation=twinkling&fontColor=white" />
-
   <table>
     <tr>
       <td align="center">
@@ -135,16 +112,13 @@ def disha_philosophy():
       </td>
       <td align="center">
         <img width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ca.png" alt="📊"/>
-        <b>Activity:</b> <span style="color:#9745f5;">C</span>
+        <b>Activity:</b> <span>C</span>
       </td>
     </tr>
   </table>
-
   <img src="https://streak-stats.demolab.com?user=dishaaa04&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 </div>
-
-## 🛠️ Technology Arsenal
-
+🛠️ Technology Arsenal
 <div align="center">
   <details open>
     <summary><b>🧰 Language Proficiency</b></summary>
@@ -152,26 +126,13 @@ def disha_philosophy():
     <table>
       <tr>
         <td align="center" width="50%">
-          <div style="display: flex; align-items: center;">
-            <div style="width: 81.55%; background-color: #F89820; height: 10px; border-radius: 5px;">
-              <div style="width: 100%; text-align: center; font-weight: bold; color: white;">
-                Java 81.55%
-              </div>
-            </div>
-          </div>
+          <b>Java 81.55%</b>
         </td>
         <td align="center" width="50%">
-          <div style="display: flex; align-items: center;">
-            <div style="width: 18.45%; background-color: #E34C26; height: 10px; border-radius: 5px;">
-              <div style="width: 100%; text-align: center; font-weight: bold; color: white;">
-                HTML 18.45%
-              </div>
-            </div>
-          </div>
+          <b>HTML 18.45%</b>
         </td>
       </tr>
     </table>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dishaaa04&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Most Used Languages" />
   </details>
-</div> 
-
+</div>
