@@ -1,4 +1,4 @@
-👋 Welcome to my digital playground
+#👋 Welcome to my digital playground
 I don't just write code, I craft digital experiences ✨
 "The code works? That's not enough. Is it elegant? Is it efficient? Does it solve the right problem?"
 🌱 Currently nurturing
