@@ -83,7 +83,100 @@ def disha_philosophy():
 
 📧 **Email:** dishaacharyaa04@gmail.com  
 
-## 📊 GitHub Stats:
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=dishaaa04&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dishaaa04&layout=compact&theme=radical)  
+## 🌐 Digital Nexus
+
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <a href="https://linkedin.com/in/dishaacharyad">
+          <img src="https://img.shields.io/badge/Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&label=LINKEDIN&labelColor=0A66C2" alt="LinkedIn"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/dishaaa04">
+          <img src="https://img.shields.io/badge/Follow-100000?style=for-the-badge&logo=github&logoColor=white&label=GITHUB&labelColor=1A1E22" alt="GitHub"/>
+        </a>
+      </td>
+      <td>
+        <a href="mailto:dishaacharyaa04@gmail.com">
+          <img src="https://img.shields.io/badge/Message-D14836?style=for-the-badge&logo=gmail&logoColor=white&label=EMAIL&labelColor=EA4335" alt="Email"/>
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+## 📊 Developer Metrics
+
+<div align="center">
+  <details open>
+    <summary><b>✨ Contribution Analytics</b></summary>
+    <br>
+    <img src="https://github-readme-stats.vercel.app/api?username=dishaaa04&show_icons=true&count_private=true&hide_title=true&theme=radical&hide_border=true&bg_color=0D1117&ring_color=ff00f5&icon_color=00FFFF&text_color=c9d1d9" alt="GitHub Stats" />
+    
+    <table>
+      <tr>
+        <td align="center">
+          <img width="20" src="https://raw.githubusercontent.com/github/explore/main/topics/star/star.png" alt="⭐"/>
+          <b>Total Stars:</b> 0
+        </td>
+        <td align="center">
+          <img width="20" src="https://raw.githubusercontent.com/github/explore/main/topics/git-commit/git-commit.png" alt="✅"/>
+          <b>2025 Commits:</b> 24
+        </td>
+        <td align="center">
+          <img width="20" src="https://raw.githubusercontent.com/github/explore/main/topics/git-pull-request/git-pull-request.png" alt="🔄"/>
+          <b>Total PRs:</b> 0
+        </td>
+      </tr>
+      <tr>
+        <td align="center">
+          <img width="20" src="https://raw.githubusercontent.com/github/explore/main/topics/issue/issue.png" alt="🔍"/>
+          <b>Total Issues:</b> 0
+        </td>
+        <td align="center">
+          <img width="20" src="https://raw.githubusercontent.com/github/explore/main/topics/github/github.png" alt="🚀"/>
+          <b>Contributions:</b> 0
+        </td>
+        <td align="center">
+          <img width="20" src="https://raw.githubusercontent.com/github/explore/main/topics/keyboard/keyboard.png" alt="⌨️"/>
+          <b>Activity:</b> C
+        </td>
+      </tr>
+    </table>
+  </details>
+</div>
+
+## 🛠️ Technology Arsenal
+
+<div align="center">
+  <details open>
+    <summary><b>🧰 Language Proficiency</b></summary>
+    <br>
+    <table>
+      <tr>
+        <td align="center" width="50%">
+          <div style="display: flex; align-items: center;">
+            <div style="width: 81.55%; background-color: #F89820; height: 10px; border-radius: 5px;">
+              <div style="width: 100%; text-align: center; font-weight: bold; color: white;">
+                Java 81.55%
+              </div>
+            </div>
+          </div>
+        </td>
+        <td align="center" width="50%">
+          <div style="display: flex; align-items: center;">
+            <div style="width: 18.45%; background-color: #E34C26; height: 10px; border-radius: 5px;">
+              <div style="width: 100%; text-align: center; font-weight: bold; color: white;">
+                HTML 18.45%
+              </div>
+            </div>
+          </div>
+        </td>
+      </tr>
+    </table>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dishaaa04&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Most Used Languages" />
+  </details>
+</div> 
 
