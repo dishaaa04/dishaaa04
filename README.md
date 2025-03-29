@@ -6,7 +6,7 @@ I don't just write code, I craft digital experiences ✨
 
 🌱 Currently nurturing
 
-Programming isn’t just about syntax; it’s about crafting intelligent solutions. From Python’s analytical power to Java’s structured brilliance, every line of code is a step toward innovation."🚀💡
+Programming isn’t just about syntax; it’s about crafting intelligent solutions. From Python’s analytical power to Java’s structured brilliance, every line of code is a step toward innovation.🚀💡
 
 Exploring Bangalore’s tech frontier while diving into Java & web technologies—because true engineering is about evolving, solving, and creating with curiosity. 🌍💻
 
@@ -53,7 +53,10 @@ Building communities where developers can thrive
 Exploring the intersection of technology and creativity
 
 📫 Signal Frequencies
-<a href="mailto:dishaacharyaa04@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=dishaacharyaa04@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
 <a href="https://linkedin.com/in/dishaacharyad"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://github.com/dishaaa04"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 
@@ -94,8 +97,10 @@ def disha_philosophy():
         </a>
       </td>
       <td>
-        <a href="mailto:dishaacharyaa04@gmail.com">
-          <img src="https://img.shields.io/badge/Message-D14836?style=for-the-badge&logo=gmail&logoColor=white&label=EMAIL&labelColor=EA4335" alt="Email"/>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=dishaacharyaa04@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Message-D14836?style=for-the-badge&logo=gmail&logoColor=white&label=EMAIL&labelColor=EA4335" alt="Email"/>
+      </a>
+
         </a>
       </td>
     </tr>
