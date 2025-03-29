@@ -126,53 +126,48 @@ def disha_philosophy():
   <img src="https://streak-stats.demolab.com?user=dishaaa04&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 </div>
 🛠️ Technology Arsenal
+🚀 Language Mastery Spectrum
+<table>
+  <tr>
+    <td width="75%">
+      <div align="center">
+        <img src="https://img.shields.io/badge/Java-81.55%25-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=1a1a1a" alt="Java dominance" />
+        <br/>
+        <code>⬆️ Primary Development Universe ⬆️</code>
+        <br/><br/>
+        <img src="https://img.shields.io/badge/HTML-18.45%25-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=1a1a1a" alt="HTML capabilities" />
+        <br/>
+        <code>⬆️ Frontend Craftsmanship ⬆️</code>
+      </div>
+    </td>
+    <td width="25%">
+      <div align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dishaaa04&layout=compact&theme=radical&hide_border=true" alt="Language distribution" width="100%" />
+      </div>
+    </td>
+  </tr>
+</table>
+
+💻 Technical Arsenal Visualization
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=Skills%20%26%20Technologies&fontSize=30&fontAlignY=35&animation=twinkling&fontColor=white" />
-</div>
-💻 Languages
-<div align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-</div>
-📊 Data Science & Analytics
-<div align="center">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-</div>
-💾 Databases
-<div align="center">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
-</div>
-🔧 Tools & Platforms
-<div align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" />
-</div>
-📈 Language Stats
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="50%">
-        <div style="background-color: #F89820; padding: 5px; border-radius: 5px; margin: 5px; text-align: center;">
-          <b>Java 81.55%</b>
-        </div>
-      </td>
-      <td align="center" width="50%">
-        <div style="background-color: #E34C26; padding: 5px; border-radius: 5px; margin: 5px; text-align: center;">
-          <b>HTML 18.45%</b>
-        </div>
-      </td>
-    </tr>
-  </table>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dishaaa04&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Most Used Languages" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=ED8B00&center=true&vCenter=true&width=435&lines=Java+Development+Specialist;81.55%25+Java+Proficiency;18.45%25+HTML+Expertise;Full-Stack+Capabilities" alt="Typing SVG" />
+  <br/>
+  <!-- Beautiful code-like representation -->
+  class DevProfile {
+    private static final Map<String, Double> SKILLS = Map.of(
+        "Java", 81.55,
+        "HTML", 18.45
+    );
+    
+    public static void main(String[] args) {
+        System.out.println("Primary language: " + 
+            SKILLS.entrySet().stream()
+                .max(Map.Entry.comparingByValue())
+                .map(Map.Entry::getKey)
+                .orElse("Unknown"));
+    }
+}
+// Output: Primary language: Java
 </div>
 📚 Currently Learning
 <div align="center">
